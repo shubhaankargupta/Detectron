@@ -13,7 +13,7 @@ At FAIR, Detectron has enabled numerous research projects, including: [Feature P
 
 ## Introduction
 
-The goal of Detectron is to provide a high-quality, high-performance
+The Detectron's goal is to provide a high-quality, high-performance
 codebase for object detection *research*. It is designed to be flexible in order
 to support rapid implementation and evaluation of novel research. Detectron
 includes implementations of the following object detection algorithms:
